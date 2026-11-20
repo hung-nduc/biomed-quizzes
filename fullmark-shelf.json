@@ -1,0 +1,98 @@
+{
+  "files": [
+    "index.html"
+  ],
+  "fonts": "quiz",
+  "format": "fullmark-shelf",
+  "quizzes": [
+    {
+      "added": "2026-11-20T12:30:56+07:00",
+      "file": "quiz.md",
+      "files": [
+        "biosignal-exam-a/assets/difference.png",
+        "biosignal-exam-a/assets/ia.png",
+        "biosignal-exam-a/assets/inverting.png",
+        "biosignal-exam-a/assets/mfb_bandpass.png",
+        "biosignal-exam-a/assets/sallen_key_hp.png",
+        "biosignal-exam-a/assets/summing.png",
+        "biosignal-exam-a/assets/weighted_dac.png",
+        "biosignal-exam-a/index.html",
+        "biosignal-exam-a/quiz.md"
+      ],
+      "hash": "a06f5ef012140cad63fe714d010f1ae2faf64ef26307962b7eb57e1f7af0c15e",
+      "id": "biosignal-exam-a",
+      "lang": "en",
+      "name": "biosignal-exam-a",
+      "title": "Biosignal Circuits: exam A"
+    },
+    {
+      "added": "2026-11-20T12:30:57+07:00",
+      "file": "quiz.md",
+      "files": [
+        "biosignal-exam-b/assets/adc_3bit.png",
+        "biosignal-exam-b/assets/butterworth_1pole.png",
+        "biosignal-exam-b/assets/hp_inverting.png",
+        "biosignal-exam-b/assets/lp_3pole.png",
+        "biosignal-exam-b/assets/lp_hp_parallel.png",
+        "biosignal-exam-b/assets/non_inverting.png",
+        "biosignal-exam-b/assets/r2r.png",
+        "biosignal-exam-b/index.html",
+        "biosignal-exam-b/quiz.md"
+      ],
+      "hash": "4885ab581279124fef26b6c6d873e02e34f546fa61ebf6a76ded6e5ba50f9ec1",
+      "id": "biosignal-exam-b",
+      "lang": "en",
+      "name": "biosignal-exam-b",
+      "title": "Biosignal Circuits: exam B"
+    },
+    {
+      "added": "2026-11-20T12:30:56+07:00",
+      "file": "quiz.md",
+      "files": [
+        "biosignal-midterm-practice/assets/difference.png",
+        "biosignal-midterm-practice/assets/ia.png",
+        "biosignal-midterm-practice/assets/inverting.png",
+        "biosignal-midterm-practice/assets/mfb_bandpass.png",
+        "biosignal-midterm-practice/assets/sallen_key_hp.png",
+        "biosignal-midterm-practice/assets/summing.png",
+        "biosignal-midterm-practice/assets/weighted_dac.png",
+        "biosignal-midterm-practice/index.html",
+        "biosignal-midterm-practice/quiz.md"
+      ],
+      "hash": "a27dc88f0d5ed3af6a94b3ec2c0f794c78186a365915a4eae334cd46faa8b15b",
+      "id": "biosignal-midterm-practice",
+      "lang": "en",
+      "name": "biosignal-circuits",
+      "title": "Biosignal Circuits: midterm practice"
+    },
+    {
+      "added": "2026-11-20T12:30:55+07:00",
+      "file": "quiz.md",
+      "files": [
+        "bsi-ch1-3/index.html",
+        "bsi-ch1-3/quiz.md"
+      ],
+      "hash": "feb13bba3b64c71fd373254dfc59bde74068086388715852afc8f8e9112d1343",
+      "id": "bsi-ch1-3",
+      "lang": "en",
+      "name": "biomedical-sensors-and",
+      "title": "Biomedical Sensors and Instrumentation: Chapters 1-3"
+    },
+    {
+      "added": "2026-11-20T12:30:54+07:00",
+      "file": "ch10-digital-radiography.md",
+      "files": [
+        "di-ch10-digital-radiography/ch10-digital-radiography.md",
+        "di-ch10-digital-radiography/index.html"
+      ],
+      "hash": "efd1c7033658aaed0bcf18e99aabcafb77b2df5e878970baabc132133818b653",
+      "id": "di-ch10-digital-radiography",
+      "lang": "en",
+      "name": "ch10-digital-radiography",
+      "title": "Diagnostic Imaging, Ch. 10: Digital Radiography"
+    }
+  ],
+  "ui_lang": "en",
+  "version": 2,
+  "with_brief": false
+}
