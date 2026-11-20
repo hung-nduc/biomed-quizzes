@@ -15,3 +15,7 @@ They are written for self-study, adapted from course materials with the help of 
 ## How this repository is made
 
 The pages are built with [fullmark](https://github.com/hung-nduc/fullmark) from Markdown sources, which sit in each quiz's folder next to its `index.html`. The quiz folders, `index.html` and the manifest, `fullmark-shelf.json`, are written by `quiz library publish`, so edits to them here are replaced at the next publish. This README is not touched.
+
+## Licence
+
+MIT: see [LICENSE](LICENSE). You may reuse, adapt and share the quizzes, keeping the copyright notice.
