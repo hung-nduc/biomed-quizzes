@@ -2,11 +2,11 @@
   "files": [
     "index.html"
   ],
-  "fonts": "quiz",
+  "fonts": "all",
   "format": "fullmark-shelf",
   "quizzes": [
     {
-      "added": "2026-11-20T12:30:56+07:00",
+      "added": "2026-11-20T17:57:18+07:00",
       "file": "quiz.md",
       "files": [
         "biosignal-exam-a/assets/difference.png",
@@ -19,14 +19,14 @@
         "biosignal-exam-a/index.html",
         "biosignal-exam-a/quiz.md"
       ],
-      "hash": "a06f5ef012140cad63fe714d010f1ae2faf64ef26307962b7eb57e1f7af0c15e",
+      "hash": "961d30fb3d5aa71edb4db0ba1f7acb8252a5ef41fd12f3c5691e14c9877f3b82",
       "id": "biosignal-exam-a",
       "lang": "en",
       "name": "biosignal-exam-a",
       "title": "Biosignal Circuits: exam A"
     },
     {
-      "added": "2026-11-20T12:30:57+07:00",
+      "added": "2026-11-20T17:57:21+07:00",
       "file": "quiz.md",
       "files": [
         "biosignal-exam-b/assets/adc_3bit.png",
@@ -39,7 +39,7 @@
         "biosignal-exam-b/index.html",
         "biosignal-exam-b/quiz.md"
       ],
-      "hash": "4885ab581279124fef26b6c6d873e02e34f546fa61ebf6a76ded6e5ba50f9ec1",
+      "hash": "b71111055388ff750741cf2c1ac496ecf74f0598e2e07ddeeea175870f3c235a",
       "id": "biosignal-exam-b",
       "lang": "en",
       "name": "biosignal-exam-b",

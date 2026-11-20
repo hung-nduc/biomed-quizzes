@@ -4,6 +4,7 @@ description: |
   Closed-book exam simulation: 52 single-answer questions in 60 minutes.
   Answers and explanations appear only after you submit. Circuit pictures are cropped from the course slides ("Uv" = input, "Ura" = output).
 id: biosignal-exam-a
+profile: exam
 time_limit: 60m
 feedback: end
 shuffle_questions: true
@@ -577,7 +578,7 @@ AC biosignals swing positive and negative. With only one supply (0 to V_S), the 
 - [ ] 0.25 V
 
 ::: explanation
-The bias is always V_S·R_B/(R_A + R_B) = V_S/2, so any supply change passes through at half size: 1 V → 0.5 V. This is the divider's weakness, a power-supply rejection of only 6 dB. A bypass capacitor at the tap, or a Zener or reference, fixes it. Source: AN-581 p1–3.
+The bias is always V_S·R_B/(R_A + R_B) = V_S/2, so any supply change passes through at half size: 1 V → 0.5 V. This is the divider's weakness, a power-supply rejection of only 6 dB. A bypass capacitor at the divider's midpoint, or a Zener or reference, fixes it. Source: AN-581 p1–3.
 :::
 
 ## A Zener reference runs from $V_S$ = 9 V with $V_Z$ = 4.7 V and a Zener current of 5 mA. What series resistor $R_Z$ is needed? {type=single id=pow-zener tags=power}

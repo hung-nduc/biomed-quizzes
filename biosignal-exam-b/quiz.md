@@ -4,6 +4,7 @@ description: |
   Closed-book exam simulation: 51 single-answer questions in 60 minutes, none repeated from exam A.
   Answers and explanations appear only after you submit. Circuit pictures are cropped from the course slides ("Uv" = input, "Ura" = output).
 id: biosignal-exam-b
+profile: exam
 time_limit: 60m
 feedback: end
 shuffle_questions: true
@@ -558,7 +559,7 @@ The RC filter keeps the average: V_out = D × V_dd = 0.3 × 3.3 V = 0.99 V. 2.31
 
 # Power sources
 
-## A divider bias uses $R_A = R_B$ = 100 kΩ with a bypass capacitor $C_2$ = 1 µF at the tap. What is the corner frequency of this filter? {type=single id=b-bypass tags=power}
+## A divider bias uses $R_A = R_B$ = 100 kΩ with a bypass capacitor $C_2$ = 1 µF at the divider's midpoint. What is the corner frequency of this filter? {type=single id=b-bypass tags=power}
 
 - [x] 3.2 Hz
 - [ ] 1.6 Hz
